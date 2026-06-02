@@ -1,0 +1,14 @@
+numpy
+pandas
+h5py
+tensorflow
+scikit-learn
+matplotlib
+torch
+torchvision
+torchaudio
+torchsummary
+scipy
+PyYAML
+tqdm
+tensorboard
